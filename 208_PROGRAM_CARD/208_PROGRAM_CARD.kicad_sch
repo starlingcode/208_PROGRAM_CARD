@@ -8179,10 +8179,10 @@
 	)
 	(text "COLUMNS"
 		(exclude_from_sim no)
-		(at 195.326 188.976 0)
+		(at 179.07 192.278 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 6.35 6.35)
 			)
 			(justify left bottom)
 		)
@@ -8204,7 +8204,7 @@
 		(at 258.318 332.74 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 6.35 6.35)
 			)
 			(justify left bottom)
 		)
@@ -8396,6 +8396,17 @@
 			(justify left bottom)
 		)
 		(uuid "24706ae2-83ca-4a46-93d7-5a6254dd9674")
+	)
+	(label "RANDOM_2_CV_OUT"
+		(at 397.51 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "249415a0-ff04-4dee-8d55-f217e0137c30")
 	)
 	(label "KEY_P_OUT"
 		(at 214.63 62.23 90)
@@ -9593,6 +9604,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 407.67 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10a"
 			(uuid "8ab7b867-1e69-49e8-9ce1-fb2230bbd5d9")
 		)
@@ -9822,6 +9842,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 464.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "835b59c0-f2f4-456c-8a6b-eef8b1a29d1e")
 		)
@@ -9876,7 +9905,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 199.39 90)
 			(effects
 				(font
@@ -9903,6 +9932,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 203.2 0)
 			(effects
 				(font
@@ -9968,7 +10006,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 260.35 90)
 			(effects
 				(font
@@ -9995,6 +10033,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 264.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 264.16 0)
 			(effects
 				(font
@@ -10096,6 +10143,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C350286"
+			(at 334.01 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1e18a472-e401-41d5-9726-227b7b1df3ac")
 		)
@@ -10181,6 +10237,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 270.51 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 270.51 350.52 0)
 			(effects
 				(font
@@ -10275,6 +10340,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C358724"
 			(at 209.55 72.39 0)
 			(effects
 				(font
@@ -10466,6 +10540,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C350286"
+			(at 207.01 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4ffd9441-416a-4002-8d8f-92a344606c40")
 		)
@@ -10523,7 +10606,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 278.13 90)
 			(effects
 				(font
@@ -10550,6 +10633,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 281.94 0)
 			(effects
 				(font
@@ -10615,7 +10707,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 311.15 90)
 			(effects
 				(font
@@ -10642,6 +10734,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 314.96 0)
 			(effects
 				(font
@@ -10734,6 +10835,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 290.83 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2979993"
 			(at 290.83 82.55 0)
 			(effects
 				(font
@@ -10837,6 +10947,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 209.55 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C358724"
 			(at 209.55 82.55 0)
 			(effects
 				(font
@@ -11029,6 +11148,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C2979993"
+			(at 290.83 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "887eb1a6-08a9-480c-ad7e-af4750ac1fd6")
 		)
@@ -11134,6 +11262,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C350286"
+			(at 229.87 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "71ec2ae2-04c3-4406-93d4-d7dc75454074")
 		)
@@ -11227,6 +11364,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C350286"
+			(at 313.69 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eae68b56-68a3-417c-9d93-739d39f313ef")
 		)
@@ -11284,7 +11430,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 295.91 90)
 			(effects
 				(font
@@ -11311,6 +11457,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 299.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 299.72 0)
 			(effects
 				(font
@@ -11412,6 +11567,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C350286"
+			(at 250.19 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6bc7f348-b565-45dc-820a-c4bed07f3919")
 		)
@@ -11497,6 +11661,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 293.37 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 293.37 350.52 0)
 			(effects
 				(font
@@ -11598,6 +11771,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C350286"
+			(at 184.15 350.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b2e9e35-e036-4553-99d9-0b9f0c9a07eb")
 		)
@@ -11655,7 +11837,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 245.11 90)
 			(effects
 				(font
@@ -11682,6 +11864,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 248.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 248.92 0)
 			(effects
 				(font
@@ -11747,7 +11938,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 214.63 90)
 			(effects
 				(font
@@ -11774,6 +11965,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 218.44 0)
 			(effects
 				(font
@@ -11839,7 +12039,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08"
+		(property "Value" "Conn_01x10"
 			(at 200.66 229.87 90)
 			(effects
 				(font
@@ -11866,6 +12066,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C350286"
 			(at 199.39 233.68 0)
 			(effects
 				(font
